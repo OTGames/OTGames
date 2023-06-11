@@ -1,0 +1,4 @@
+      - Hi, I’m OTGames
+      - I’m interested in karate
+      - I’m currently learning python
+      - How to reach me: taghlibie84@gmail.com
